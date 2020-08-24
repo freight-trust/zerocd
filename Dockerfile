@@ -29,3 +29,4 @@ COPY assets /assets
 RUN sh /assets/build.sh
 
 CMD ["/bin/bash"]
+
